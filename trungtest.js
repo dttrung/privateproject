@@ -1,0 +1,3 @@
+function trung() {
+    return true;
+}
